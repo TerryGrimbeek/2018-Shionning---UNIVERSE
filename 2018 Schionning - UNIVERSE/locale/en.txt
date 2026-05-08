@@ -1,0 +1,174 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_E19F53D6_F35D_E66D_41E5_DD6007E07DBB.source = http://twitter.com/loremipsum
+LinkBehaviour_E19E93D5_F35D_E66F_41EA_F2F24167F807.source = http://www.facebook.com/loremipsum
+LinkBehaviour_E19F73D5_F35D_E66F_41E2_FFEA741249F2.source = http://www.facebook.com/loremipsum
+LinkBehaviour_E19F43D5_F35D_E66F_41EA_91C5F06ABEAA.source = http://www.loremipsum.com
+LinkBehaviour_E19EB3D5_F35D_E66F_41D2_4A8CE057C5FE.source = http://www.loremipsum.com
+LinkBehaviour_E19F63D5_F35D_E66F_41E4_913B5B87B1F8.source = http://www.twitter.com/loremipsum
+LinkBehaviour_E5F91FA1_F33B_3E01_41D9_E0E7BC2B8F01.source = https://justcatamarans.net/catamaran-listing/schionning-g-force-1500-universe/
+LinkBehaviour_E5F53990_F327_2201_41E8_C0FA0A1832AA.source = https://justcatamarans.net/catamaran-listing/schionning-g-force-1500-universe/
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_E251D481_F325_62E5_41E3_CB69808898C1.toolTip = Cushions being reupholstered
+
+## Media
+
+### Audio
+audiores_E182C940_F35D_2279_41DE_8B1FF5D083C1.mp3Url = media/audio_E01AFFC6_F366_DE78_41AC_30852C3158AD_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_E05A9046_F35B_2278_41CD_5E1672A96566.url = media/popup_E0315E04_F367_21FC_41E0_5230A7183524_en_0_0.webp
+imlevel_E05A8046_F35B_2278_41B2_86A0EBAAA3F6.url = media/popup_E0315E04_F367_21FC_41E0_5230A7183524_en_0_1.webp
+imlevel_E05AB046_F35B_2278_41EA_80D610753432.url = media/popup_E0315E04_F367_21FC_41E0_5230A7183524_en_0_2.webp
+imlevel_E05AA047_F35B_2278_41EB_B36C41E112EF.url = media/popup_E0315E04_F367_21FC_41E0_5230A7183524_en_0_3.webp
+imlevel_E0665A28_F35B_2608_41EB_579B2E4CEB3B.url = media/popup_E165C63C_F365_2E0D_41E8_9BB0106A9B5B_en_0_0.webp
+imlevel_E0667A29_F35B_2608_41DD_B9C0B75B3C75.url = media/popup_E165C63C_F365_2E0D_41E8_9BB0106A9B5B_en_0_1.webp
+imlevel_E0669A29_F35B_2608_41CB_F78E4C632E4C.url = media/popup_E165C63C_F365_2E0D_41E8_9BB0106A9B5B_en_0_2.webp
+imlevel_E066BA29_F35B_2608_41E2_7FCE0A9700EE.url = media/popup_E165C63C_F365_2E0D_41E8_9BB0106A9B5B_en_0_3.webp
+imlevel_E043FC62_F35B_2238_41E2_2962B7C7FAB9.url = media/popup_E1D3E426_F365_623F_41E3_FFCB29C847FD_en_0_0.webp
+imlevel_E0421C62_F35B_2238_41C8_149D5F9AE1EF.url = media/popup_E1D3E426_F365_623F_41E3_FFCB29C847FD_en_0_1.webp
+imlevel_E0420C62_F35B_2238_41ED_73C4441BF59C.url = media/popup_E1D3E426_F365_623F_41E3_FFCB29C847FD_en_0_2.webp
+imlevel_E0423C62_F35B_2238_41E0_E9577F30C6BA.url = media/popup_E1D3E426_F365_623F_41E3_FFCB29C847FD_en_0_3.webp
+imlevel_E055C6B3_F35B_2E18_41B2_8E03E792DA48.url = media/popup_E1EEA93C_F36B_220C_41EC_C6DCC109C002_en_0_0.webp
+imlevel_E056C6B4_F35B_2E18_41D6_D1FB31BA75B0.url = media/popup_E1EEA93C_F36B_220C_41EC_C6DCC109C002_en_0_1.webp
+imlevel_E056F6B4_F35B_2E18_41CA_F0F2A7DB9965.url = media/popup_E1EEA93C_F36B_220C_41EC_C6DCC109C002_en_0_2.webp
+imlevel_E056E6B4_F35B_2E18_41DB_69EC1C032EF3.url = media/popup_E1EEA93C_F36B_220C_41EC_C6DCC109C002_en_0_3.webp
+
+### Popup Image
+
+### Subtitle
+panorama_F91109FD_F2E5_228A_41CE_1F119F85567A.subtitle = Interior
+panorama_F92F36A0_F2DA_EEBA_41E3_70B7E739964E.subtitle = Interior
+panorama_F91148E5_F2E5_22BA_41DC_E0EB8B1A23C5.subtitle = Interior
+panorama_F91173DB_F2E5_268E_41E8_7E0039683656.subtitle = Interior
+panorama_F913B2AB_F2E5_668D_41E2_AB8A6E618880.subtitle = Interior
+panorama_F9111526_F2E5_2386_41C6_3605C0AB9980.subtitle = Interior
+panorama_F910E054_F2E5_219A_4148_2314E8591400.subtitle = Interior
+panorama_F92F21F8_F2DA_E28A_41ED_13549E41429C.subtitle = Interior
+panorama_F9113EF8_F2E5_3E8B_41DE_DDAB444BD1BB.subtitle = Interior
+panorama_F92EFB89_F2DA_E68A_41E5_3F98F66D19C7.subtitle = Interior
+panorama_F92B347A_F2DB_218E_41D1_63372D927C9B.subtitle = exterior
+panorama_F92F5E6F_F2DB_2186_41E5_36D8BAB4ADBA.subtitle = exterior
+panorama_FE9C3F53_F2DB_3F9F_41C5_7CE7E4FFC91F.subtitle = exterior
+panorama_F92ED95B_F2DB_238E_41E0_9AAE49B4B3C4.subtitle = exterior
+panorama_F92F4D31_F2DA_E39B_41E8_2685857C6118.subtitle = exterior
+panorama_F92F2865_F2DA_E1BA_41EB_78462CEBD953.subtitle = exterior
+panorama_F92F6361_F2DA_E7BA_41E4_A9B90CDB9224.subtitle = exterior
+
+### Title
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_0.label = 20250129_134600
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_2.label = 20250129_134718
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_3.label = 20250129_134728
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_4.label = 20250129_134737
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_5.label = 20250129_134739
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_6.label = 20250129_134748
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_7.label = 20250129_134754
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_8.label = 20250129_134801
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_9.label = 20250129_134814
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_11.label = 20250129_134837
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_13.label = 20250129_135046
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_14.label = 20250129_135053
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_15.label = 20250129_135101
+album_E706B0EF_F35D_623C_41E4_B83145B578E7_0.label = 20250129_135104
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_17.label = 20250129_135112
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_18.label = 20250129_135138
+album_E706B0EF_F35D_623C_41E4_B83145B578E7_1.label = 20250129_135146
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_19.label = 20250129_135146
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_20.label = 20250129_135159
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_22.label = 20250129_135214
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_23.label = 20250129_135405
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_25.label = 20250129_135421
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_28.label = 20250129_135444
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_29.label = 20250129_135448
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_31.label = 20250129_135519
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_32.label = 20250129_135533
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_33.label = 20250129_135544
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_34.label = 20250129_135552
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_35.label = 20250129_135600
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_36.label = 20250129_135604
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_37.label = 20250129_135610
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_40.label = 20250129_135637
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_42.label = 20250129_135650
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_46.label = 20250129_135745
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_51.label = 20250129_135922
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_52.label = 20250129_135928
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_53.label = 20250129_135945
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_54.label = 20250129_140002
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_58.label = 20250129_140054
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_59.label = 20250129_140113
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_61.label = 20250129_140145
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_64.label = 20250129_140212
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_65.label = 20250129_140316
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_67.label = 20250129_140353
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_68.label = 20250129_140405
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_79.label = 20250129_140648
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_81.label = 20250129_140711
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_82.label = 20250129_140719
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_84.label = 20250129_141407
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_85.label = 20250129_142429
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_86.label = 20250129_142456
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_87.label = 20250129_142537
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_92.label = 20250129_142722
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_93.label = 20250129_142729
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_96.label = 20250129_142842
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_100.label = 20250129_142913
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_102.label = 20250129_142922
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0_106.label = 20250129_143058
+panorama_F91148E5_F2E5_22BA_41DC_E0EB8B1A23C5.label = Aft guest cabin
+panorama_F92F2865_F2DA_E1BA_41EB_78462CEBD953.label = Coachtop
+panorama_FE9C3F53_F2DB_3F9F_41C5_7CE7E4FFC91F.label = Cockpit
+panorama_F92F21F8_F2DA_E28A_41ED_13549E41429C.label = Galley & nav
+panorama_F913B2AB_F2E5_668D_41E2_AB8A6E618880.label = Guest head
+panorama_F9113EF8_F2E5_3E8B_41DE_DDAB444BD1BB.label = Guest hull
+panorama_F92B347A_F2DB_218E_41D1_63372D927C9B.label = Helm
+panorama_F910E054_F2E5_219A_4148_2314E8591400.label = Owner berth
+panorama_F9111526_F2E5_2386_41C6_3605C0AB9980.label = Owner head
+panorama_F92F36A0_F2DA_EEBA_41E3_70B7E739964E.label = Owner hull
+album_E4D0A565_F32B_2203_41E3_48026BDC9BB0.label = Photo Album 20250129_134600
+album_E706B0EF_F35D_623C_41E4_B83145B578E7.label = Photo Album 20250129_135104
+panorama_F92F5E6F_F2DB_2186_41E5_36D8BAB4ADBA.label = Port bow
+panorama_F91173DB_F2E5_268E_41E8_7E0039683656.label = Port storage
+panorama_F92ED95B_F2DB_238E_41E0_9AAE49B4B3C4.label = Port transom
+panorama_F91109FD_F2E5_228A_41CE_1F119F85567A.label = Saloon
+panorama_F92F6361_F2DA_E7BA_41E4_A9B90CDB9224.label = Starboard bow
+panorama_F92F4D31_F2DA_E39B_41E8_2685857C6118.label = Starboard transom
+panorama_F92EFB89_F2DA_E68A_41E5_3F98F66D19C7.label = Storage
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = 360º VIEWS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = 360º VIEWS
+Button_727E644B_7DD2_675A_41A5_E1B24D4186E2.label = GO TO BUY 
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = PHOTOALBUM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = PHOTOALBUM
+
+### Image
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_en.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_en.png
+Image_727DA44B_7DD2_675A_4187_461ECAA80913.url = skin/Image_727DA44B_7DD2_675A_4187_461ECAA80913_en.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_en.jpg
+Image_E5254E20_F325_FE3F_41E6_58C407B8E0F3.url = skin/Image_E5254E20_F325_FE3F_41E6_58C407B8E0F3_en.png
+Image_E5E39F25_F325_5E00_41E7_ABA04CC5FC61.url = skin/Image_E5E39F25_F325_5E00_41E7_ABA04CC5FC61_en.png
+
+### Multiline Text
+HTMLText_727E544B_7DD2_675A_41D7_B13EDAF14E19.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.13vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.13vmin;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:5.42vmin;font-family:'Exo';"><B><I>The Arcona 340, is a 34’1” monohull sailboat designed by Stefan Qviberg. She was built by Arcona Yachts.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.63vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Performances:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Upwind sail area to displacementi: 26.25</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Downwind sail area to displacementi: 45.91</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Displacement-Length ratio (DLR)i: 156</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Ballast ratioi: 37 %</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Hull speedi: 7.60 knots</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Auxiliary engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine type: Inboard engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine: 20 HP</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fuel type: Diesel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fuel tank capacity: 26.4 gal </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Accommodation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Cabin(s): 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Berth(s) (min/max): 4 / 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Head(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fresh water tank capacity: 34.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Water heater capacity: 5.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Holding tank capacity: 13.2 gal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Arcona uses resin infusion to create a light, strong hull and deck comprised of multiaxial rovings and vinylester resin with a Divinycell core. A galvanized steel framework in the base of the hull carries the loads generated by the rig and keel. All bulkheads are laminated to the hull and deck. The keel is a lead bulb bolted onto an epoxy-coated cast-iron fin. The keel-stepped mast is by Seldén. Standing rigging is wire.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">A nearly plumb bow and a fairly abrupt reverse transom both look sharp and maximize the boat’s sailing length. End-boom sheeting with traveler and mainsheet controls immediately forward of the helm—right where they belong—show this is a boat that means business on the racecourse.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:4.7vmin;font-family:'Roboto Black';">This is quite simply a nice boat, a sailor’s boat. Its quality construction, styling and many practical seagoing design features result in a smart and make for a fast, comfortable ride underway.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.15vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.15vmin;font-family:'Exo';"><B>$178,000</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.9000000000000004vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4500000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.45vw;font-family:'Exo';"><B><I>The Arcona 340, is a 34’1” monohull sailboat designed by Stefan Qviberg. She was built by Arcona Yachts.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Performances:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Upwind sail area to displacementi: 26.25</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Downwind sail area to displacementi: 45.91</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Displacement-Length ratio (DLR)i: 156</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Ballast ratioi: 37 %</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Hull speedi: 7.60 knots</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Auxiliary engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine type: Inboard engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine: 20 HP</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fuel type: Diesel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fuel tank capacity: 26.4 gal </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Accommodation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Cabin(s): 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Berth(s) (min/max): 4 / 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Head(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fresh water tank capacity: 34.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Water heater capacity: 5.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Holding tank capacity: 13.2 gal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Arcona uses resin infusion to create a light, strong hull and deck comprised of multiaxial rovings and vinylester resin with a Divinycell core. A galvanized steel framework in the base of the hull carries the loads generated by the rig and keel. All bulkheads are laminated to the hull and deck. The keel is a lead bulb bolted onto an epoxy-coated cast-iron fin. The keel-stepped mast is by Seldén. Standing rigging is wire.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">A nearly plumb bow and a fairly abrupt reverse transom both look sharp and maximize the boat’s sailing length. End-boom sheeting with traveler and mainsheet controls immediately forward of the helm—right where they belong—show this is a boat that means business on the racecourse.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:0.97vw;font-family:'Roboto Black';">This is quite simply a nice boat, a sailor’s boat. Its quality construction, styling and many practical seagoing design features result in a smart and make for a fast, comfortable ride underway.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4500000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$178,000</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description =  G-FORCE 1500 C - UNIVERSE
+
+### Title
+tour.name = 2018 Schionning
